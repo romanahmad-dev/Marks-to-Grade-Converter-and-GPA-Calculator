@@ -128,5 +128,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Roman Ahmad Khan**  
 BS Computer Science — GC University Faisalabad  
-📧 romanahmadkhan01@gmail.com  
+
 🔗 [linkedin.com/in/roman-ahmad-kh](https://linkedin.com/in/roman-ahmad-kh)
